@@ -16,7 +16,7 @@ from PIL import Image
 
 st.set_page_config(page_title="Reciclaje - UTH", layout="centered")
 
-st.title("Clasificación de imágenes - Reciclaje - Servicio en la nube")
+st.title("Clasificación de imágenes - Reciclaje - Servicio en la nube - Henry Monge")
 
 st.write("Suba una imagen para clasificarla con el modelo MobileNetV2 entrenado.")
 
